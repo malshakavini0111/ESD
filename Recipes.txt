@@ -1,4 +1,3 @@
-
 ESD-IT17057820 
 
 Welcome to Telusko kitchen
@@ -7,6 +6,8 @@ Kheer
 Pasta
 Chicken Fry
 
+Beans
+Pizza
 
 
 Thank you :)
